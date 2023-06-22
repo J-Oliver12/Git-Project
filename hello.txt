@@ -9,3 +9,5 @@ Hello Git Master
 
 Hello Feature1
 >>>>>>> feature1
+
+fetch test
